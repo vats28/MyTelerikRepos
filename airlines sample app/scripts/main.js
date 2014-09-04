@@ -4,8 +4,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
 
 // PhoneGap is ready
 function onDeviceReady() {
-    
-	
+	navigator.splashscreen.hide();
 }
 
 var airlinesApp = function(){}
