@@ -1,8 +1,6 @@
-# .abignore lets you configure which of your files and folders should be included in your application package during the build process.
-# By default, AppBuilder includes all files and folders unless you have listed them in .abignore.
-# Each project created with AppBuilder 2.6 or later contains a default .abignore.
-# The default .abignore lists a number of system files and folders that might affect the size of your app or might prevent build operations from completing successfully.
-# 
+# .abignore lets you configure which of your files and folders should be excluded from your application package during the build process.
+# Each project created with AppBuilder 2.6 or later contains a default .abignore which lists a number of system files and folders that might affect the size of your app or might prevent build operations from completing successfully. 
+#
 # For more information about .abignore and how to write exclude and include rules for your projects, see http://docs.telerik.com/platform/appbuilder/testing-your-app/abignore
 
 # Windows files
